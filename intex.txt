@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+
+<head>
+<meta charset="utf-8"/>
+<title>Nazwa robocza</title>
+<meta name="description" content="Jakiś roboczy napis żeby sprawdzić jak to działa"/>
+<meta name="keywords" content="informatyka, przdmiot, strona internetowa"/>
+<meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1"
+
+</head>
+
+<body>
+
+</body>
+
+</html>
