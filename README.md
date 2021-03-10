@@ -1,2 +1,0 @@
-# myhair
-Potem
