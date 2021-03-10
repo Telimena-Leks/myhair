@@ -1,0 +1,77 @@
+body
+{
+	background-color: #CCFFFF;
+}
+
+#container
+	{
+		width: 1100px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#logo
+	{
+		background-color: #66CCFF;
+		color: white;
+		padding: 5px;
+		font-family: Verdana;
+	}
+		#title
+		{
+			font-size: 50px;
+			margin-left: 30px;
+		}
+		#title2
+		{
+			margin-left: 30px;
+		}
+	
+	#content
+	{
+		float: left;
+		padding: 35px;
+		width: 820px;
+		font-family: Verdana;
+		background-color: white;
+		min-height: 600px;
+		font-size: 17px;
+	}
+	
+	#content_main
+	{
+		float: left;
+		padding: 35px;
+		width: 1030px;
+		font-family: Verdana;
+		background-color: white;
+		min-height: 600px;
+		font-size: 17px;
+	}
+	#menu
+	{
+		float: left;
+		background-color: lightgray;
+		width: 190px;
+		min-height: 650px;
+		padding: 10px;
+		font-family: Verdana;
+	}
+	#footer
+	{
+		clear: both;
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding: 20px;
+	}	
+	
+/* Linki wewnątrz strony*/
+a:link
+{
+	color: white
+}
+a:visited
+{
+	color: white
+}
